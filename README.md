@@ -9,12 +9,4 @@ Induction motors are important equipment in modern industry. However, the occurr
 ## Citation
 If you use CANN in an academic work, please cite:
 
-@ARTICLE{9666871,
-  author={Tran, Minh-Quang and Liu, Meng-Kun and Tran, Quoc-Viet and Nguyen, Toan-Khoa},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Effective Fault Diagnosis Based on Wavelet and Convolutional Attention Neural Network for Induction Motors}, 
-  year={2022},
-  volume={71},
-  number={},
-  pages={1-13},
-  doi={10.1109/TIM.2021.3139706}}
+@ARTICLE{9666871,  author={Tran, Minh-Quang and Liu, Meng-Kun and Tran, Quoc-Viet and Nguyen, Toan-Khoa},  journal={IEEE Transactions on Instrumentation and Measurement},   title={Effective Fault Diagnosis Based on Wavelet and Convolutional Attention Neural Network for Induction Motors},   year={2022},  volume={71},  number={},  pages={1-13},  doi={10.1109/TIM.2021.3139706}}
